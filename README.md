@@ -4,6 +4,7 @@ Welcome! This is one of the final projects for Udacity's Frontend Developer Nano
 ## How to run the app
 1. Download or clone the file to your desktop
 2. Double click `index.html` or drag it to your browser
+3. OR use the [following link](https://edarioq.github.io/classical-arcade-game/)
 3. Enjoy!
 
 ## How to play
